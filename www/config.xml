@@ -17,7 +17,7 @@
     </author>
 
     <preference name="phonegap-version" value="3.0.0" /> 
-    <preference name ="androdi-windowSoftInputMode" value = "stateVisible | adjustResize 我的" />
+    <preference name ="android-windowSoftInputMode" value = "stateVisible | adjustResize 我的" />
 
     <gap:plugin name="org.apache.cordova.core.camera" />
 </widget>
